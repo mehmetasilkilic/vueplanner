@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "title": "AAAA",
+      "details": "aaaa",
+      "completed": true,
+      "id": 1
+    },
+    {
+      "title": "BBBB",
+      "details": "bbbb",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "title": "CCCC",
+      "details": "cccc",
+      "completed": true,
+      "id": 3
+    },
+    {
+      "title": "DDDD",
+      "details": "dddd",
+      "completed": false,
+      "id": 4
+    }
+  ]
+}
